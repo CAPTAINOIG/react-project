@@ -1,14 +1,15 @@
 import './App.css'
 import Navbar from './Component/Navbar'
 import Box from './Component/Box'
-import Priority from './Component/priority'
+import Prior from './Component/Prior'
 import Card from './Component/Card'
 import Access from './Component/Access'
-import Saver from './Component/saver'
+import Saver from './Component/Saver'
 import Customers from './Component/Customers'
 import Featured from './Component/Featured'
 import Piggyvest from './Component/Piggyvest'
 import Footer from './Component/Footer'
+
 
 
 function App() {
@@ -18,7 +19,7 @@ function App() {
     <>
     <Navbar/>
     <Box/>
-    <Priority/>
+    <Prior/>
     <Card/>
     <Access/>
     <Saver/>
@@ -26,6 +27,7 @@ function App() {
     <Featured/>
     <Piggyvest/>
     <Footer/>
+   
     </>
   )
 }
