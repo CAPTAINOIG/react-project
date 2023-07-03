@@ -1,0 +1,34 @@
+#invest{
+    height: 530px;
+    margin-top: 50px;
+    width: 250px;
+    margin-left: 200px;
+    /* float: right; */
+}
+#up{
+    color: rgb(186,100,229);
+    border: 0px solid rgb(186,100,229);
+    width: 220px;
+    margin-top: 140px;
+    background-color: rgb(229,241,254);
+    /* border-radius: 20%; */
+    font-weight: bold;
+    padding-left: 20px;
+    font-size: 20px;
+}
+#access{
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(12,24,37);
+}
+#fo{
+    font-size: 18px;
+    color: rgb(12,24,37);
+    margin-top: 20px;
+}
+#lear{
+    text-decoration: none;
+    color: rgb(121,19,229);
+    font-size: 18px;
+    font-weight: 500;
+}

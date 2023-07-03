@@ -1,0 +1,23 @@
+#tech{
+    width: 150px;
+    margin-top: 30px;
+}
+#guard{
+    width: 150px;
+    margin-top: 30px;
+}
+#crunch{
+    width: 150px;
+    margin-top: 30px;
+}
+#feat{
+    margin-left: 200px;
+    font-weight: bold;
+    margin-top: 30px;
+    color: rgb(12,24,37);
+}
+#fit{
+    background-color: rgb(249,249,249);
+    width: 100%;
+    height: 100px;
+}

@@ -1,0 +1,36 @@
+#pig{
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+#loogo{
+    margin-top: 50px;
+
+    
+}
+#loogo1{
+    margin-top: 50px;
+    margin-left: 50px;
+    font-weight: 500;
+    font-size: 13px;
+}
+#loogo1:hover, .test:hover{
+    color: blue;
+}
+#face, #twit, #insta{
+    height: 30px;
+    margin-top: 50px;
+   
+}
+#face:hover, #twit:hover, #insta:hover{
+    margin-top: 1px;
+}
+.test{
+    font-size: 13px;
+    text-decoration: none;
+    color: rgb(12,24,37);
+    font-weight: 500;
+}
+#tet{
+    margin-top: 10px;
+}

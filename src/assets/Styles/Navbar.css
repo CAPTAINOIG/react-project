@@ -1,0 +1,25 @@
+/* body{
+    overflow-y: none;
+    overflow-x: none;
+} */
+#static{
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+}
+#light{
+    border: 1px solid black;
+    color: rgb(12,24,37);
+    font-weight: bold;
+    margin-left: 110px;
+}
+#light:hover{
+    border: 1px solid rgb(13,73,160);
+    color: rgb(13,73,160);
+}
+#lighter{
+    background-color: rgb(12,24,37);
+}
+#lighter:hover{
+    background-color: rgb(13,73,160);
+}

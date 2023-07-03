@@ -1,0 +1,20 @@
+#oyin{
+    height: 50px;
+    border-radius: 100%;
+}
+#one {
+    /* position: absolute;
+    top: 550px; */
+    animation-delay: 0s;
+    /* animation: one 10s ease-out infinite;  */
+    animation: one 2s ease-out infinite;
+}
+@keyframes one {
+    0% {
+        bottom: 100%;
+    }
+    100% {
+        top: 100%;
+
+    }
+}

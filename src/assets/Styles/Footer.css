@@ -1,0 +1,35 @@
+#text{
+    background-color: rgb(12,24,37);
+    width: 70%;
+    margin-left: 200px;
+    top: 35vw;
+    position: fixed;
+    z-index: 2;
+}
+#cookie{
+    padding-top: 25px;
+    margin-left: 30px;
+}
+#data{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-left: 30px;
+    font-size: 15px;
+}
+#dec{
+    font-weight: bold;
+    color: white;
+    padding-top: 50px;
+    padding-left: 30px;
+    text-decoration: none;
+}
+#accept{
+    margin-left: 30px;
+    font-weight: 500;
+}
+#accept:hover{
+    color: blue;
+}
+#foot{
+    margin-top: 180px;
+}

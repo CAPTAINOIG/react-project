@@ -1,0 +1,61 @@
+#rect{
+    position: relative;
+    top: 10%;
+    left: -22%;
+}
+#omo{
+    position: relative;
+    top: -48%;
+    left: -29%;
+}
+#card{
+    position: relative;
+    left: -49%;
+    top:   -22%;
+    z-index: 1;
+    height: 120px;
+    width: 200px;
+}
+#cardy{
+    position: relative;
+    top: -11%;
+    z-index: 1;
+    left: 15%;
+    height: 120px;
+    width: 200px;
+}
+.way{
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 250px;
+}
+#piggy{
+    font-size: 20px;
+}
+#apple{
+    height: 25px;
+}
+#play{
+    height: 30px;
+}
+#dark{
+    border: 1px solid black;
+    width: 160px;
+    height: 40px;
+    padding: 5px;
+}
+#dark:hover{
+    transform: translate(0px, 20px);
+    transition: 2s;
+}
+#darky{
+    border: 1px solid black;
+    width: 160px;
+    height: 40px;
+    margin-left: 20px;
+    padding: 5px;
+}
+#darky:hover{
+    transform: translate(0px, 20px);
+    transition: 2s;
+}

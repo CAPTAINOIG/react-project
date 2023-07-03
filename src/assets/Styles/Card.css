@@ -1,0 +1,57 @@
+#see{
+    border: 0px solid red;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(249,249,249);
+    border-radius: 10%;
+}
+#piggy{
+    height: 50px;
+}
+#life{
+    height: 50px;
+}
+#auto{
+    color: rgb(12,24,37);
+    font-size: 20px;
+}
+#build{
+    color: rgb(12,24,37);
+}
+#arrow{
+    width: 30px;
+    background-color: rgb(229,241,254);
+    border-radius: 100%;
+}
+#pi{
+    color: rgb(12,24,37);
+    font-weight: 500;
+}
+#pii{
+    color: rgb(12,24,37);
+    font-weight: 500;
+}
+#arr{
+    margin-top: 50px;
+}
+#arr:hover{
+    margin-left: 20px;
+}
+#arr1{
+    margin-top: 30px;
+}
+#arr1:hover{
+    margin-left: 20px;
+}
+#arr11{
+    margin-top: 30px;
+}
+#arr11:hover{
+    margin-left: 20px;
+}
+#arr2{
+    margin-top: 10px;
+}
+#arr2:hover{
+    margin-left: 20px;
+}

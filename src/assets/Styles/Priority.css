@@ -1,0 +1,13 @@
+#image{
+    height: 120px;
+    width: 100px;
+}
+#container{
+    margin-top: -400px;
+}
+#use{
+    color: rgb(12,24,37);
+}
+#security{
+    color: rgb(12,24,37);
+}
